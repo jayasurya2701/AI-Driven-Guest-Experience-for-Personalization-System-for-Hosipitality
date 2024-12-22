@@ -7,6 +7,6 @@ The dataset is created using a GPT model and identified from Kaggle. To achieve 
 1.  Customer Details: Includes Customer Name, Email, Date & Time, Server Name, Server Employee ID, Age, and Preferences (Dining, Room Preferences, Sports, Wellness, Pricing Patterns).
       o   Generated using ChatGPT.
 2.  Feedback Data:
-      o   Source: Kaggle (TripAdvisor Hotel Reviews).
+      o   Source: Kaggle ([TripAdvisor Hotel Reviews](https://www.kaggle.com/datasets/thedevastator/tripadvisor-hotel-reviews?source=post_page-----846738de727f--------------------------------)).
 
  Integrated both datasets into a single one and named as **Final dataset** for project implementation.
