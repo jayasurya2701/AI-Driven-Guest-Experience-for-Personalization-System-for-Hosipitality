@@ -1,4 +1,4 @@
-# AI-Driven-Guest-Experience-for-Personalization-System-for-Hosipitality
+# AI-Driven-Guest-Experience-for-Personalization-System-for-Hospitality
 
 **Dataset**:
 
